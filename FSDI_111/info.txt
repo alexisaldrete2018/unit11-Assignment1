@@ -1,0 +1,7 @@
+create a venv
+python3 -m venv venv
+
+activa venv 
+source venv/bin/venv
+
+__init__ file it makes python identify as a module
